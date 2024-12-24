@@ -14,7 +14,7 @@ GAN Training, LLM Training, Model Architecture Playground, Ollama Host. Raspberr
 - **720: 2x Xeon E5-2667 v2, 128GB, 40TB.**  \
 Main Windows VM, Minecraft Servers, Model Inference, Ubuntu Docker VM.
 
-- 610 (Rev. II): 2x Xeon L5620, 64GB, 4TB.**  \
+- **610 (Rev. II): 2x Xeon L5620, 64GB, 4TB.**  \
 macOS VM(s), QEMU, PPC VM(s), pfSense, Plex in Debian VM.
   
 - **210 II: Xeon E3-1220L, 8GB, 500GB.**  \
